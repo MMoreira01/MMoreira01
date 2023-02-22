@@ -4,7 +4,7 @@
 
 - 🖥️  Check my website to see my projects: https://marcopmoreira.me/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMoreira01&theme=dark&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMoreira01&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 MMoreira01/MMoreira01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
