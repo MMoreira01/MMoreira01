@@ -9,6 +9,7 @@ Welcome to my GitHub profile!
 ## 👨‍💻 About Me
 My interest in programming has led me to dive into the world of Backend development. I have experience in languages like PHP and JavaScript, as well as frameworks like Laravel. Additionally, I have hands-on experience working with WordPress.
 To expand my knowledge, I embraced a new challenge by pursuing a Master’s degree in Cybersecurity at IPVC, where I’m currently in my second year.
+
 Currently working at **Immera** as a Backend Developer.
 
 
