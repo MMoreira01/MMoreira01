@@ -1,16 +1,22 @@
 # 👋 Hi, I’m Marco Moreira
 
+**Backend Developer | Cybersecurity | Web Application Security**
+
 Welcome to my GitHub profile!
 
 ## 🎓 Education
-- Bachelor's Degree in Communication and Multimedia @ UTAD Portugal.
-- (Currently)  Master's Degree in Cybersecurity @ IPVC Portugal.
+
+* Bachelor's Degree in Communication and Multimedia — UTAD, Portugal
+* Master's Degree in Cybersecurity — IPVC, Portugal
 
 ## 👨‍💻 About Me
-My interest in programming has led me to dive into the world of Backend development. I have experience in languages like PHP and JavaScript, as well as frameworks like Laravel. Additionally, I have hands-on experience working with WordPress.
-To expand my knowledge, I embraced a new challenge by pursuing a Master’s degree in Cybersecurity at IPVC, where I’m currently in my second year.
 
-Currently working at **Immera** as a Backend Developer.
+I'm a Backend Developer at **Immera**, where I work on developing web applications while contributing to vulnerability assessments and web application security.
+
+With a background in both software development and cybersecurity, I'm passionate about building secure, reliable, and maintainable applications. I enjoy exploring backend technologies, improving application security, and continuously expanding my knowledge through hands-on projects and new challenges.
+
+My main areas of interest include backend development, application security, vulnerability assessment, and secure software engineering.
+
 
 
 <!---
